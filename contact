@@ -1,0 +1,60 @@
+<table width="100%" align="center">
+    <tbody><tr>
+        <td>
+        <table width="80%" align="center" style="padding: 15px;  border:1px solid;">
+                <tbody><tr>
+                    <td width="80%">
+                            <h1>Pensiri Kusalaporn</h1>
+                            <h2>Web Developer</h2>
+                            <h3><a href="mailto:pensiri@eng.cmu.ac.th">pensiri@eng.cmu.ac.th</a></h3>
+                            <h3>(+66) - 956-983268</h3>
+                    </td>
+                    <td align="center">
+                            <img width="200" height="200" class="portrait" alt="pensiri" src="test.jpg">
+                    </td>
+                </tr>
+        </tbody></table>
+         <br>
+         <form action="#">
+        <table width="80%" align="center" style="padding: 15px;   border:1px solid;">
+           
+            <tbody><tr>
+                <td><h3><label>Subject:</label></h3></td>
+                <td><input name="subject" width="50" type="text" value=""> </td>
+            </tr>
+            <tr>
+                <td><h3> <label>Massage:</label></h3></td>
+                <td> <textarea name="msg"></textarea> </td>
+            </tr>
+            <tr>
+                <td><h3><label>Name:</label></h3></td>
+                <td><input name="fullname" type="text" value=""> </td>
+            </tr>
+            <tr>
+                <td><h3><label>Gender:</label></h3></td>
+                <td>
+                    <input name="gender" type="radio" value="male"> male 
+                    <input name="gender" type="radio" value="female"> female 
+                </td>
+            </tr>
+            <tr>
+                <td><h3><label>Phone:</label></h3></td>
+                <td><input name="phone" type="tel" value=""> </td>
+            </tr>
+            <tr>
+                <td><h3><label>Email:</label></h3></td>
+                <td><input type="email" value=""></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input name="submit" type="submit" value="submit"></td>
+            </tr>
+
+            
+        </tbody></table>
+
+		<p align="center">Pensiri Kusalaporn — <a href="mailto:name@yourdomain.com">pensiri@eng.cmu.ac.th</a> — (+66) - 956-983268</p>
+       
+        </form></td>
+    </tr>
+    </tbody></table>
